@@ -2,7 +2,7 @@
 langchain
 langchain-core
 langchain-community
-langchain-openai
+langchain-groq
 streamlit
 
 # Tavily Search Tool
