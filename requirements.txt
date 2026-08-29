@@ -1,5 +1,5 @@
 # Core LLM + LangChain ecosystem
-langchai
+langchain
 langchain-core
 langchain-community
 langchain-openai
